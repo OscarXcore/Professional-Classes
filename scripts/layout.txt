@@ -17,13 +17,17 @@
 	_modspecific/tieredtooltips.zs
 }
 
+10007: {
+	_utils/stageItem.zs
+}
+
+10001: {
+	profession/all/*.zs
+}
+
 9900-9999: {
 	profession/none/items.zs,
 	profession/none/recipes.add.shaped.zs,
 	profession/none/recipes.add.shapeless.zs,
 	profession/none/recipes.remove.zs
-}
-
-9800-9899: {
-	profession/test/items.zs
 }
