@@ -1,0 +1,29 @@
+10010: {
+	_global/artisanworktables.zs,
+	_global/metals.zs,
+	_global/profession.zs
+}
+
+10009: {
+	_cleanup/chisel.zs,
+	_cleanup/forestry_cans.zs,
+	_cleanup/items.zs,
+	_cleanup/names.zs
+}
+
+10008: {
+	_modspecific/contenttweaker.zs,
+	_modspecific/simplyjetpacks.zs,
+	_modspecific/tieredtooltips.zs
+}
+
+9900-9999: {
+	profession/none/items.zs,
+	profession/none/recipes.add.shaped.zs,
+	profession/none/recipes.add.shapeless.zs,
+	profession/none/recipes.remove.zs
+}
+
+9800-9899: {
+	profession/test/items.zs
+}

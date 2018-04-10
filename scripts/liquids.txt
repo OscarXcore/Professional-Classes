@@ -1,0 +1,231 @@
+<liquid:aerotheum>, Zephyrean Aerotheum
+<liquid:almandine>, Molten Almandine
+<liquid:alubrass>, Molten Aluminum Brass
+<liquid:aluminum>, Molten Aluminum
+<liquid:apatite>, Molten Apatite
+<liquid:ardite>, Molten Ardite
+<liquid:astralsorcery.liquidstarlight>, Liquid Starlight
+<liquid:banded_iron>, Molten Banded Iron
+<liquid:barite>, Molten Barite
+<liquid:base_essence>, Molten Base Essence
+<liquid:bastnasite>, Molten Bastnasite
+<liquid:bauxite>, Molten Bauxite
+<liquid:bentonite>, Molten Bentonite
+<liquid:beryllium>, Molten Beryllium
+<liquid:bio.ethanol>, Ethanol
+<liquid:biodiesel>, Biodiesel
+<liquid:biofuel>, Biofuel
+<liquid:biomass>, Biomass
+<liquid:blood>, Blood
+<liquid:blueslime>, Liquid Blue Slime
+<liquid:brass>, Molten Brass
+<liquid:brine>, Brine
+<liquid:bronze>, Molten Bronze
+<liquid:brown_limonite>, Molten Brown Limonite
+<liquid:calcite>, Molten Calcite
+<liquid:canolaoil>, Canola Oil
+<liquid:cassiterite>, Molten Cassiterite
+<liquid:certus_quartz>, Molten Certus Quartz
+<liquid:chalcopyrite>, Molten Chalcopyrite
+<liquid:charcoal>, Molten Charcoal
+<liquid:cinnabar>, Molten Cinnabar
+<liquid:clay>, Molten Clay
+<liquid:coal>, Molten Coal
+<liquid:cobalt>, Molten Cobalt
+<liquid:cobaltite>, Molten Cobaltite
+<liquid:concrete>, Liquid Concrete
+<liquid:constantan>, Molten Constantan
+<liquid:cooperite>, Molten Cooperite
+<liquid:copper>, Molten Copper
+<liquid:creosote>, Creosote Oil
+<liquid:crude_oil>, Crude Oil
+<liquid:cryotheum>, Gelid Cryotheum
+<liquid:crystaloil>, Crystallized Oil
+<liquid:cyanite>, Fluid Cyanite
+<liquid:dawnstone>, Molten Dawnstone
+<liquid:diamond>, Molten Diamond
+<liquid:diesel>, Diesel
+<liquid:dirt>, Liquid Dirt
+<liquid:dist_water>, Distilled Water
+<liquid:electrum>, Molten Electrum
+<liquid:emerald>, Molten Emerald
+<liquid:empoweredoil>, Empowered Oil
+<liquid:ender>, Resonant Ender
+<liquid:enderium>, Molten Enderium
+<liquid:essence>, Essence
+<liquid:etchacid>, Etching Acid
+<liquid:ethanol>, Ethanol
+<liquid:experience>, Essence of Knowledge
+<liquid:for.honey>, Honey
+<liquid:fuel>, Gasoline
+<liquid:fuel_dense>, Dense Fuel (Cool)
+<liquid:fuel_dense_heat_1>, Dense Fuel (Hot)
+<liquid:fuel_dense_heat_2>, Dense Fuel (Searing)
+<liquid:fuel_gaseous>, Gaseous Fuel (Cool)
+<liquid:fuel_gaseous_heat_1>, Gaseous Fuel (Hot)
+<liquid:fuel_gaseous_heat_2>, Gaseous Fuel (Searing)
+<liquid:fuel_light>, Fuel (Cool)
+<liquid:fuel_light_heat_1>, Fuel (Hot)
+<liquid:fuel_light_heat_2>, Fuel (Searing)
+<liquid:fuel_mixed_heavy>, Mixed Heavy Fuels (Cool)
+<liquid:fuel_mixed_heavy_heat_1>, Mixed Heavy Fuels (Hot)
+<liquid:fuel_mixed_heavy_heat_2>, Mixed Heavy Fuels (Searing)
+<liquid:fuel_mixed_light>, Mixed Light Fuels (Cool)
+<liquid:fuel_mixed_light_heat_1>, Mixed Light Fuels (Hot)
+<liquid:fuel_mixed_light_heat_2>, Mixed Light Fuels (Searing)
+<liquid:fuelcolumn>, fluid.fuelcolumn
+<liquid:galena>, Molten Galena
+<liquid:garnierite>, Molten Garnierite
+<liquid:gasoline>, Gasoline
+<liquid:glass>, Liquid Glass
+<liquid:glauconite>, Molten Glauconite
+<liquid:glowstone>, Energized Glowstone
+<liquid:gold>, Molten Gold
+<liquid:graphite>, Molten Graphite
+<liquid:green_sapphire>, Molten Green Sapphire
+<liquid:grossular>, Molten Grossular
+<liquid:heavywater>, Heavy Water
+<liquid:ice>, Crushed Ice
+<liquid:if.pink_slime>, Pink Slime
+<liquid:if.protein>, Protein
+<liquid:ilmenite>, Molten Ilmenite
+<liquid:inferium>, Molten Inferium
+<liquid:intermedium>, Molten Intermedium
+<liquid:invar>, Molten Invar
+<liquid:iridium>, Molten Iridium
+<liquid:iron>, Molten Iron
+<liquid:juice>, Fruit Juice
+<liquid:kerosene>, Kerosene
+<liquid:knightslime>, Molten Knightslime
+<liquid:lapis>, Molten Lapis
+<liquid:latex>, Latex
+<liquid:lava>, Lava
+<liquid:lazurite>, Molten Lazurite
+<liquid:lead>, Molten Lead
+<liquid:lepidolite>, Molten Lepidolite
+<liquid:lifeessence>, Life Essence
+<liquid:lignite>, Molten Lignite
+<liquid:liquid_crystal>, Resonating Crystal Liquid
+<liquid:liquidchlorine>, Liquid Chlorine
+<liquid:liquidchorus>, Liquid Chorus
+<liquid:liquiddeuterium>, Liquid Deuterium
+<liquid:liquiddna>, Liquid DNA
+<liquid:liquidethene>, Liquid Ethylene
+<liquid:liquidfusionfuel>, Liquid D-T Fuel
+<liquid:liquidhydrogen>, Liquid Hydrogen
+<liquid:liquidhydrogenchloride>, Liquid Hydrogen Chloride
+<liquid:liquidlithium>, Liquid Lithium
+<liquid:liquidoxygen>, Liquid Oxygen
+<liquid:liquidsodium>, Liquid Sodium
+<liquid:liquidsulfurdioxide>, Liquid Sulfur Dioxide
+<liquid:liquidsulfurtrioxide>, Liquid Sulfur Trioxide
+<liquid:liquidtritium>, Liquid Tritium
+<liquid:lithium>, Molten Lithium
+<liquid:lpg>, LPG
+<liquid:lubricant>, Lubricant
+<liquid:lumium>, Molten Lumium
+<liquid:magnesite>, Molten Magnesite
+<liquid:magnetite>, Molten Magnetite
+<liquid:malachite>, Molten Malachite
+<liquid:mana>, Primal Mana
+<liquid:mana_infused_metal>, Molten Mana Infused Metal
+<liquid:manyullyn>, Molten Manyullyn
+<liquid:meat>, Liquid Meat
+<liquid:menrilresin>, Menril Resin
+<liquid:milk>, Milk
+<liquid:molybdenite>, Molten Molybdenite
+<liquid:molybdenum>, Molten Molybdenum
+<liquid:monazite>, Molten Monazite
+<liquid:mushroom_stew>, Mushroom Stew
+<liquid:mutagen>, Mutagen
+<liquid:napalm>, Napalm
+<liquid:neodymium>, Molten Neodymium
+<liquid:nether_quartz>, Molten Nether Quartz
+<liquid:nickel>, Molten Nickel
+<liquid:obsidian>, Molten Obsidian
+<liquid:oil>, Oil (Cool)
+<liquid:oil_dense>, Dense Oil (Cool)
+<liquid:oil_dense_heat_1>, Dense Oil (Hot)
+<liquid:oil_dense_heat_2>, Dense Oil (Searing)
+<liquid:oil_distilled>, Distilled Oil (Cool)
+<liquid:oil_distilled_heat_1>, Distilled Oil (Hot)
+<liquid:oil_distilled_heat_2>, Distilled Oil (Searing)
+<liquid:oil_heat_1>, Oil (Hot)
+<liquid:oil_heat_2>, Oil (Searing)
+<liquid:oil_heavy>, Heavy Oil (Cool)
+<liquid:oil_heavy_heat_1>, Heavy Oil (Hot)
+<liquid:oil_heavy_heat_2>, Heavy Oil (Searing)
+<liquid:oil_residue>, Residue (Cool)
+<liquid:oil_residue_heat_1>, Residue (Hot)
+<liquid:oil_residue_heat_2>, Residue (Searing)
+<liquid:olivine>, Molten Olivine
+<liquid:palladium>, Molten Palladium
+<liquid:pentlandite>, Molten Pentlandite
+<liquid:petrotheum>, Tectonic Petrotheum
+<liquid:phosphate>, Molten Phosphate
+<liquid:phosphorus>, Molten Phosphorus
+<liquid:pigiron>, Molten Pigiron
+<liquid:pitchblende>, Molten Pitchblende
+<liquid:plantoil>, Plant Oil
+<liquid:plastic>, Liquid Plastic
+<liquid:platinum>, Molten Platinum
+<liquid:potion>, Potion
+<liquid:potion_lingering>, Lingering Potion
+<liquid:potion_splash>, Splash Potion
+<liquid:powellite>, Molten Powellite
+<liquid:protein>, Protein
+<liquid:prudentium>, Molten Prudentium
+<liquid:purpleslime>, Liquid Purple Slime
+<liquid:pyrite>, Molten Pyrite
+<liquid:pyrolusite>, Molten Pyrolusite
+<liquid:pyrope>, Molten Pyrope
+<liquid:pyrotheum>, Blazing Pyrotheum
+<liquid:quartzite>, Molten Quartzite
+<liquid:redstone>, Molten Redstone
+<liquid:refined_fuel>, Refined Fuel
+<liquid:refined_oil>, Naphtha
+<liquid:refinedcanolaoil>, Refined Canola Oil
+<liquid:resin>, Resin
+<liquid:rock_salt>, Molten Rock Salt
+<liquid:ruby>, Molten Ruby
+<liquid:salt>, Molten Salt
+<liquid:sap>, Sap
+<liquid:sapphire>, Molten Sapphire
+<liquid:scheelite>, Molten Scheelite
+<liquid:seed.oil>, Seed Oil
+<liquid:sewage>, Sewage
+<liquid:short.mead>, Short Mead
+<liquid:signalum>, Molten Signalum
+<liquid:silver>, Molten Silver
+<liquid:slime>, Liquid Slime
+<liquid:sludge>, Sludge
+<liquid:soapstone>, Molten Soapstone
+<liquid:sodalite>, Molten Sodalite
+<liquid:soulium>, Molten Soulium
+<liquid:spessartine>, Molten Spessartine
+<liquid:sphalerite>, Molten Sphalerite
+<liquid:spodumene>, Molten Spodumene
+<liquid:steam>, Steam
+<liquid:steel>, Molten Steel
+<liquid:stibnite>, Molten Stibnite
+<liquid:stone>, Seared Stone
+<liquid:sulfur>, Molten Sulfur
+<liquid:sulfuricacid>, Sulfuric Acid
+<liquid:superium>, Molten Superium
+<liquid:supremium>, Molten Supremium
+<liquid:syrup>, Syrup
+<liquid:talc>, Molten Talc
+<liquid:tantalite>, Molten Tantalite
+<liquid:tetrahedrite>, Molten Tetrahedrite
+<liquid:thorium>, Molten Thorium
+<liquid:tin>, Molten Tin
+<liquid:tree_oil>, Tree Oil
+<liquid:tungsten>, Molten Tungsten
+<liquid:uraninite>, Molten Uraninite
+<liquid:uranium>, Molten Uranium
+<liquid:vanadium_magnetite>, Molten Vanadium Magnetite
+<liquid:water>, Water
+<liquid:wulfenite>, Molten Wulfenite
+<liquid:yellorium>, Fluid Yellorium
+<liquid:yellow_limonite>, Molten Yellow Limonite
+<liquid:zinc>, Molten Zinc

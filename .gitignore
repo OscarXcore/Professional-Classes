@@ -5,9 +5,11 @@ coremods/
 discordsuite/
 emoticons/
 journeymap/
-logs/*.tar*
+logs/*.log.gz
 mods/
+mods
 resourcepacks/
+resources/
 saves/
 server-resource-packs/
 shaderpacks/
@@ -23,3 +25,7 @@ minecraftinstance.json
 *.pdf
 usercache.json
 usernamecache.json
+
+
+# Configs
+config/
