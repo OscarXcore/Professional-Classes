@@ -25,7 +25,7 @@ minecraftinstance.json
 *.pdf
 usercache.json
 usernamecache.json
-
+config.old/**
 
 # Configs
 config/

@@ -1,3 +1,4 @@
+#norun
 #priority 10009
 
 metals.manaInfused.ore.displayName = "Mana Infused Ore";

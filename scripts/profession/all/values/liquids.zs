@@ -1,3 +1,4 @@
+#norun
 #priority 10001
 
 import crafttweaker.liquid.ILiquidStack;

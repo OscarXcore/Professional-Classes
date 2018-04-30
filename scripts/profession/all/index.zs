@@ -10,7 +10,6 @@ var ORESTAGE = OREPROF.all;
 
 var contenttweaker = scripts.profession.all.values.contenttweaker.a;
 
-var liquids = scripts.profession.all.values.liquids.a;
 var items = scripts.profession.all.values.items.a;
 var gases = scripts.profession.all.values.gases.a;
 
@@ -40,13 +39,12 @@ var gendustry_gene_samples = scripts.profession.all.values.gendustry.gene_sample
 		ORESTAGE[item.definition.id] = item;
 		mods.ItemStages.addItemStage(STAGE, item);
 	}
-}
+}*/
 
 for i in 0 to 13 {
 	var item = <forestry:thermionic_tubes>.definition.makeStack(i);
-	//ORESTAGE[item.definition.id] = item;
 	mods.ItemStages.addItemStage(STAGE, item);
-}*/
+}
 
 for mod in loadedMods {
 	/*for item in mod.items {
@@ -54,9 +52,9 @@ for mod in loadedMods {
 		ORESTAGE[item.definition.id] = item;
 		//print("<" ~ mod.name ~ "> " ~ item.definition.id ~ "|" ~ item.metadata);
 	}*/
-	if (mod.id == "buildcrafttransport") {
+	if (mod.id == "buildcraftsilicon") {
 		for item in mod.items {
-			if (item.definition.id != "buildcrafttransport:plug_facade") mods.ItemStages.addItemStage(STAGE, item);
+			if (item.definition.id != "buildcraftsilicon:plug_facade") mods.ItemStages.addItemStage(STAGE, item);
 		}
 	}/* else if (mod.id == "forestry") {
 		for item in mod.items {
@@ -143,6 +141,10 @@ for mod in loadedMods {
 		/*for sample in gendustry_gene_samples {
 			mods.ItemStages.addItemStage(STAGE, <gendustry:gene_sample>.withTag(sample));
 		}*/
+	} else if (mod.id == "unlimitedchiselworks") {
+		for item in mod.items {
+			mods.ItemStages.addItemStage(STAGE, item);
+		}
 	} else {
 		mods.ItemStages.stageModItems(STAGE, mod.id);
 	}
@@ -164,6 +166,7 @@ for name, gas in gases {
 	//mods.jei.JEI.hide(gas);
 }
 
-for liquid in liquids {
-	mods.ItemStages.stageLiquid(STAGE, liquid);
+for liquid in game.liquids {
+	var fluid = liquid * 1000;
+	mods.ItemStages.stageLiquid(STAGE, fluid);
 }

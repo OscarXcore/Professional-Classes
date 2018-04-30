@@ -85,6 +85,22 @@
 <liquid:green_sapphire>, Molten Green Sapphire
 <liquid:grossular>, Molten Grossular
 <liquid:heavywater>, Heavy Water
+<liquid:ic2air>, Air
+<liquid:ic2biogas>, Biogas
+<liquid:ic2biomass>, Biomass
+<liquid:ic2construction_foam>, Construction Foam
+<liquid:ic2coolant>, IC2 Coolant
+<liquid:ic2distilled_water>, Distilled Water
+<liquid:ic2heavy_water>, Heavy Water
+<liquid:ic2hot_coolant>, IC2 Hot Coolant
+<liquid:ic2hot_water>, Hotspring Water
+<liquid:ic2hydrogen>, Hydrogen
+<liquid:ic2oxygen>, Oxygen
+<liquid:ic2pahoehoe_lava>, Pahoehoe Lava
+<liquid:ic2steam>, Steam
+<liquid:ic2superheated_steam>, Superheated Steam
+<liquid:ic2uu_matter>, UU-Matter
+<liquid:ic2weed_ex>, Weed-Ex
 <liquid:ice>, Crushed Ice
 <liquid:if.pink_slime>, Pink Slime
 <liquid:if.protein>, Protein
@@ -197,7 +213,6 @@
 <liquid:short.mead>, Short Mead
 <liquid:signalum>, Molten Signalum
 <liquid:silver>, Molten Silver
-<liquid:slime>, Liquid Slime
 <liquid:sludge>, Sludge
 <liquid:soapstone>, Molten Soapstone
 <liquid:sodalite>, Molten Sodalite
