@@ -1,5 +1,3 @@
-#norun
-
 var colors = {
 			"Almandine": Color.fromHex("ff0000"),
 			  "Apatite": Color.fromHex("c8c8ff"),
